@@ -1,0 +1,13 @@
+{
+  "id" : "https://carolavdd.github.io/cats/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in carolavdd/cats project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://carolavdd.github.io/cats/manifests/manifest2.json",
+    "label" : "Cat photos"
+  } ]
+}
