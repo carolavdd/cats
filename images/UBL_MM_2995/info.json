@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 69,
+    "height" : 73
+  }, {
+    "width" : 138,
+    "height" : 145
+  }, {
+    "width" : 275,
+    "height" : 289
+  }, {
+    "width" : 549,
+    "height" : 578
+  }, {
+    "width" : 1098,
+    "height" : 1156
+  }, {
+    "width" : 2196,
+    "height" : 2312
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2196,
+  "@id" : "https://carolavdd.github.io/cats/images/UBL_MM_2995",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2312
+}
