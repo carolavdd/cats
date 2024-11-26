@@ -1,0 +1,87 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://carolavdd.github.io/cats/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "Cat photos",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A stereo photograph of a cat from 1895, and a modern cat photo taken with an iPhone.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/4.0/",
+  "attribution" : "Leiden University Libraries and Carola.",
+  "sequences" : [ {
+    "@id" : "http://7c7a1f4a-baf5-4f38-8edb-fc2b6a4b1dac",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "viewingHint" : "pages",
+    "canvases" : [ {
+      "@id" : "http://45fdcdd4-0efc-4f09-915a-700707c80de4",
+      "@type" : "sc:Canvas",
+      "label" : "Tabby as Grandma",
+      "height" : 2312,
+      "width" : 2196,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://470cd4ec-8478-4df3-8630-bfcbfd735434",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://carolavdd.github.io/cats/images/UBL_MM_2995/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://carolavdd.github.io/cats/images/UBL_MM_2995",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2312,
+          "width" : 2196
+        },
+        "on" : "http://45fdcdd4-0efc-4f09-915a-700707c80de4"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://73f6c713-c3ac-4282-89c1-9cabb8d81bff",
+      "@type" : "sc:Canvas",
+      "label" : "A cat named Rasputin",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3acaf838-ea75-4030-bbda-2676db88aa71",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://carolavdd.github.io/cats/images/IMG_0055/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://carolavdd.github.io/cats/images/IMG_0055",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://73f6c713-c3ac-4282-89c1-9cabb8d81bff"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/intro" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "Introduction",
+    "canvases" : [ "http://45fdcdd4-0efc-4f09-915a-700707c80de4" ]
+  } ]
+}
