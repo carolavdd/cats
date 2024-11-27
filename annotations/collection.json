@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://carolavdd.github.io/cats/annotations/3fc0ae9678df051f0479940c43e4474e.json" ],
+  "@id" : "https://carolavdd.github.io/cats/annotations/collection.json",
+  "label" : "All annotations loaded in carolavdd/cats project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
