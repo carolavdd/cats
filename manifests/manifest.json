@@ -3,6 +3,11 @@
   "@id" : "https://carolavdd.github.io/cats/manifests/manifest.json",
   "@type" : "sc:Manifest",
   "label" : "Cat photos",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/189721457/3f2fc6e87f690bd0fb3bc0d369c167d3/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "1895 and 2023 photos of cats.",
@@ -47,6 +52,11 @@
         },
         "on" : "http://fe96739f-6130-4e7e-960d-82bbd313ba2c"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://carolavdd.github.io/cats/annotations/3fc0ae9678df051f0479940c43e4474e.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://f409334c-5481-4204-97ce-d5682d818407",
@@ -76,6 +86,11 @@
           "width" : 4032
         },
         "on" : "http://f409334c-5481-4204-97ce-d5682d818407"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://carolavdd.github.io/cats/annotations/ab71490134ea4d1c5e94aeaf31af0487.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     } ]
