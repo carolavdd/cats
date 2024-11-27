@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://carolavdd.github.io/cats/manifests/manifest2.json",
     "label" : "Cat photos"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://carolavdd.github.io/cats/manifests/manifest.json",
+    "label" : "Cat photos"
   } ]
 }
