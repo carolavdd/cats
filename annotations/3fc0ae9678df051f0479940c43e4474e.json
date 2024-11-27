@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "1895. People have been taking silly photos of their cats since the dawn of time (/since they could)!",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>1895. People have been taking silly photos of their cats since the dawn of time (/since they could)!</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/189721457",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-11-27T20:41:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1732740119028",
+    "dcterms:modified" : "2024-11-27T20:41:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://carolavdd.github.io/cats/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1887,939,70,46"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1886.75547,938.77076h34.81622v0h34.81622v23.22209v23.22209h-34.81622h-34.81622v-23.22209z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_669bae23-efcc-4056-8adb-874d2af225e0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fe96739f-6130-4e7e-960d-82bbd313ba2c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Shelfmark MM 2995",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Shelfmark MM 2995</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/189721457",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-11-27T20:41:24",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1732740084280",
+    "dcterms:modified" : "2024-11-27T20:41:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://carolavdd.github.io/cats/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1574,1234,274,95"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1574.03594,1233.85205h137.20423v0h137.20423v47.29602v47.29602h-137.20423h-137.20423v-47.29602z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a79e910d-f086-4440-8f4d-2c1d2ef51b6b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fe96739f-6130-4e7e-960d-82bbd313ba2c"
+    } ]
+  } ],
+  "@id" : "https://carolavdd.github.io/cats/annotations/3fc0ae9678df051f0479940c43e4474e.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
