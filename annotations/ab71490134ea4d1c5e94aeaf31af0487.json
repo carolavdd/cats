@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Toe beans...",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Toe beans...</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/189721457",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-11-27T20:42:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1732740150952",
+    "dcterms:modified" : "2024-11-27T20:42:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://carolavdd.github.io/cats/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2381,2175,1657,849"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2380.90221,2175.23224h828.53158v0h828.53158v424.38388v424.38388h-828.53158h-828.53158v-424.38388z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4870cb52-b0d4-43ce-b8c8-45267c41b452\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://f409334c-5481-4204-97ce-d5682d818407"
+    } ]
+  } ],
+  "@id" : "https://carolavdd.github.io/cats/annotations/ab71490134ea4d1c5e94aeaf31af0487.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
