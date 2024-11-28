@@ -2,9 +2,17 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "id" : "https://carolavdd.github.io/cats/manifests/project.json",
   "type" : "Manifest",
-  "label" : {
-    "en" : [ "Deshima, a link between the Netherlands and Japan" ]
+  "label": {
+    "en": [
+      "Deshima"
+    ]
   },
+  "description": [
+		{
+			"@value": "A little island linking Japan to the west.",
+			"@language": "en"
+		}
+	],
   "license" : "Full access. <a href='https://creativecommons.org/publicdomain/mark/1.0/'>The rights status of this resource is public domain</a>",
   "attribution" : "Leiden University Libraries",
   "summary" : {
