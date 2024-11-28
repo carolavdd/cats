@@ -1,0 +1,240 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://carolavdd.github.io/cats/manifests/projectmanifest.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Deshima, a link between the Netherlands and Japan" ]
+  },
+  "license" : "Full access. <a href='https://creativecommons.org/publicdomain/mark/1.0/'>The rights status of this resource is public domain</a>",
+  "attribution" : "Leiden University Libraries",
+  "summary" : {
+    "en" : [ "" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/ak77k1fg30h-m401lo9p/canvas/ovh9929ixgd-m41sboje",
+    "type" : "Canvas",
+    "height" : 2464,
+    "width" : 2909,
+    "label" : {
+      "en" : [ "'T Eilandje Desima Verblyf Plaats der Hollanders in Japan - COLLBN Port 204 N 39" ]
+    },
+    "metadata" : [ {
+      "label" : "Title",
+      "value" : "'T Eilandje Desima Verblyf Plaats der Hollanders in Japan"
+    }, {
+      "label" : "Subtitle",
+      "value" : "Na de aftekening, onder den Heere Voogt berustende, opgestelt COLLBN Port 204 N 39"
+    }, {
+      "label" : "Author/creator",
+      "value" : [ "Voogt, Gerrits", "Tirion, Isaak (1705-1769)", "Salmon, Thomas (1679-1767)" ]
+    }, {
+      "label" : "Country",
+      "value" : {
+        "@value" : "Netherlands",
+        "@language" : "eng"
+      }
+    }, {
+      "label" : "Persistent URL",
+      "value" : "http://hdl.handle.net/1887.1/item:3639580"
+    } ],
+    "requiredStatement" : {
+      "value" : {
+        "en" : [ "" ]
+      },
+      "label" : {
+        "en" : [ "" ]
+      }
+    },
+    "items" : [ {
+      "id" : "https://example.org/ak77k1fg30h-m401lo9p/canvas/ovh9929ixgd-m41sboje/annotation-page/ot6jc6gmo5t-m41sboje",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ak77k1fg30h-m401lo9p/annotation/6topys6x4x-m41sbmxn",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ak77k1fg30h-m401lo9p/canvas/ovh9929ixgd-m41sboje",
+        "body" : {
+          "id" : "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3639580/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2464,
+          "width" : 2909
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ak77k1fg30h-m401lo9p/canvas/sv1itl1103h-m41spn26",
+    "type" : "Canvas",
+    "height" : 3835,
+    "width" : 2660,
+    "label" : {
+      "en" : [ "Portret van een Nederlands gezin" ]
+    },
+    "metadata" : [ {
+      "label" : "Title",
+      "value" : "Portret van een Nederlands gezin"
+    }, {
+      "label" : "Subject (topical)",
+      "value" : "Photographs"
+    }, {
+      "label" : "Country",
+      "value" : {
+        "@value" : "No place, unknown, or undetermined",
+        "@language" : "eng"
+      }
+    }, {
+      "label" : "Date issued",
+      "value" : "2006 "
+    }, {
+      "label" : "Language",
+      "value" : {
+        "@value" : "No linguistic content",
+        "@language" : "eng"
+      }
+    }, {
+      "label" : "Extent",
+      "value" : "Digital image"
+    }, {
+      "label" : "Note",
+      "value" : [ "Afbeelding is vermoedelijk een Yamatoya druk en stelt waarschijnlijk de heer en mevrouw Cock Blomhoff voor met hun kind.", "Depicted: Cock Blomhoff-Bergsma, Titia; Cock Blomhoff, Jan.", "Pictures of the tropics : a catalogue of drawings, water-colours, paintings, and sculptures in the collection of the Royal Institute of Linguistics and Anthropology in Leiden / by J.H. Maronier. - 's-Gravenhage : Martinus Nijhoff, 1967. - p. 111.", "Former shelfmark: M 495-1025." ]
+    }, {
+      "label" : "Published",
+      "value" : "[Circa 1800]"
+    }, {
+      "label" : "Shelfmark",
+      "value" : "KITLV 37A312"
+    }, {
+      "label" : "Persistent URL",
+      "value" : "http://hdl.handle.net/1887.1/item:856054"
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ak77k1fg30h-m401lo9p/canvas/sv1itl1103h-m41spn26/annotation-page/vp2pqfsgg7k-m41spn26",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ak77k1fg30h-m401lo9p/annotation/0h45zxg0a9gc-m41spk5m",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ak77k1fg30h-m401lo9p/canvas/sv1itl1103h-m41spn26",
+        "body" : {
+          "id" : "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:856054/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3835,
+          "width" : 2660
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ak77k1fg30h-m401lo9p/canvas/fv43pg87495-m41smpzq",
+    "type" : "Canvas",
+    "height" : 3931,
+    "width" : 5010,
+    "label" : {
+      "en" : [ "Aantekeningen op de Reize Na-en-Van -Jedo- in Japan BPL 3651" ]
+    },
+    "metadata" : [ {
+      "label" : "Title",
+      "value" : "Aantekeningen op de Reize Na-en-Van -Jedo- in Japan BPL 3651"
+    }, {
+      "label" : "Author/creator",
+      "value" : "Cock Blomhoff, Jan (1779-1853)"
+    }, {
+      "label" : "Subject (topical)",
+      "value" : "Manuscripts (documents)"
+    }, {
+      "label" : "Country",
+      "value" : {
+        "@value" : "Japan",
+        "@language" : "eng"
+      }
+    }, {
+      "label" : "Language",
+      "value" : {
+        "@value" : "Dutch",
+        "@language" : "eng"
+      }
+    }, {
+      "label" : "Extent",
+      "value" : "elektronische bron"
+    }, {
+      "label" : "Content",
+      "value" : "Verslag van een hofreis van Deshima bij Nagasaki naar de shogun van Japan in Edo, gemaakt door Jan Cock Blomhoff, opperhoofd van de Nederlandse factorij bij Nagasaki, scriba Hendrik Gerard Engelen en chirurgijn Gerrit Leendert Hagen, tussen 13 februari en 19 juni 1818. Het verslag wordt voorafgegaan door een overzicht van reistijden en afgelegde afstanden en gevolgd door diverse aantekeningen, onder andere met betrekking tot de dienst en ceremonie bij aankomst, observaties gedaan tijdens de reis, geldzaken, gedragsregels en protocollen."
+    }, {
+      "label" : "Note",
+      "value" : [ "Eenvoudig grijs kartonnen omslag, met op het voorste plat in inkt: “No. I. / Hofreis / 1818”.", "Leiden, UB copy BPL 3651" ]
+    }, {
+      "label" : "Published",
+      "value" : "[Japan of Nederland], 1818"
+    }, {
+      "label" : "Shelfmark",
+      "value" : "BPL 3651"
+    }, {
+      "label" : "Persistent URL",
+      "value" : "http://hdl.handle.net/1887.1/item:1605643"
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ak77k1fg30h-m401lo9p/canvas/fv43pg87495-m41smpzq/annotation-page/z21tdhxnmmi-m41smpzq",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ak77k1fg30h-m401lo9p/annotation/9k56pm7m2ik-m41smpya",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ak77k1fg30h-m401lo9p/canvas/fv43pg87495-m41smpzq",
+        "body" : {
+          "id" : "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:1605666/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3931,
+          "width" : 5010
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ak77k1fg30h-m401lo9p/canvas/yjw7gs9xoc-m41szxrk",
+    "type" : "Canvas",
+    "height" : 4244,
+    "width" : 5090,
+    "label" : {
+      "en" : [ "Particuliere Reis Kaart van Japan COLLBN Port 178 N 53" ]
+    },
+    "metadata" : [ {
+      "label" : "Title",
+      "value" : "Particuliere Reis Kaart van Japan"
+    }, {
+      "label" : "Subtitle",
+      "value" : "strekkende van Nagasaki tot Kokura"
+    }, {
+      "label" : "Author/creator",
+      "value" : "Kaempfer, Engelbert (1651-1716)"
+    }, {
+      "label" : "Part of",
+      "value" : "De beschryving van Japan"
+    }, {
+      "label" : "Published",
+      "value" : "'s Gravenhage : P. Gosse en J. Neaulme, Amsterdam : B. Lakeman, 1729"
+    }, {
+      "label" : "Shelfmark",
+      "value" : "COLLBN Port 178 N 53"
+    }, {
+      "label" : "Persistent URL",
+      "value" : "http://hdl.handle.net/1887.1/item:3282923"
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ak77k1fg30h-m401lo9p/canvas/yjw7gs9xoc-m41szxrk/annotation-page/e33iqnd941-m41szxrk",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ak77k1fg30h-m401lo9p/annotation/1azil45ak8o-m41szuv3",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ak77k1fg30h-m401lo9p/canvas/yjw7gs9xoc-m41szxrk",
+        "body" : {
+          "id" : "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3282923/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4244,
+          "width" : 5090
+        }
+      } ]
+    } ]
+  } ]
+}
