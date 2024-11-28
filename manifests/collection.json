@@ -13,5 +13,11 @@
     "@type" : "sc:Manifest",
     "@id" : "https://carolavdd.github.io/cats/manifests/manifest.json",
     "label" : "Cat photos"
+  }, {
+    "id" : "https://carolavdd.github.io/cats/manifests/projectmanifest.json",
+    "label" : {
+      "en" : [ "Deshima, a link between the Netherlands and Japan" ]
+    },
+    "type" : "Manifest"
   } ]
 }
